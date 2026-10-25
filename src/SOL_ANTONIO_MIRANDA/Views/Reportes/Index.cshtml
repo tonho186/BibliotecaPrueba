@@ -1,0 +1,64 @@
+﻿@using SOL_ANTONIO_MIRANDA.Models
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<Prestamo>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID Préstamo</th>
+            <th>ISBN</th>
+            <th>Nombre libro</th>
+            <th>Fecha préstamo</th>
+            <th>DNI Usuario</th>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Tipo Usuario</th>
+            <th>Estado</th>
+            <th>Tipo Lectura</th>
+            <th>Fecha Devolución</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Id</td>
+                <td>@p.Libro.ISBN</td>
+                <td>@p.Libro.Nombre</td>
+                <td>@p.FechaPrestamo.ToString("g")</td>
+                <td>@p.Usuario.Dni</td>
+                <td>@p.Usuario.Nombres</td>
+                <td>@p.Usuario.Apellidos</td>
+                <td>@p.Usuario.TipoUsuario</td>
+                <td>
+                    @if (p.Usuario.Estado)
+                    {
+                        <span class="badge bg-success">Habilitado</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger">Sancionado</span>
+                    }
+                </td>
+                <td>@p.TipoLectura</td>
+                <td>@p.FechaDevolucion.ToString("g")</td>
+                <td>
+                    @if (!p.Devuelto)
+                    {
+                        <form asp-controller="Reportes" asp-action="Devolver" method="post">
+                            <input type="hidden" name="prestamoId" value="@p.Id" />
+                            <button type="submit" class="btn btn-sm btn-warning">Devolver</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <span class="badge bg-success">Devuelto</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

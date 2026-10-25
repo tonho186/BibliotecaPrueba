@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|d:\\proyectosnet\\sol_antonio_miranda\\sol_antonio_miranda\\views\\prestamos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|solutionrelative:sol_antonio_miranda\\views\\prestamos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|d:\\proyectosnet\\sol_antonio_miranda\\sol_antonio_miranda\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|solutionrelative:sol_antonio_miranda\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|d:\\proyectosnet\\sol_antonio_miranda\\sol_antonio_miranda\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|solutionrelative:sol_antonio_miranda\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|d:\\proyectosnet\\sol_antonio_miranda\\sol_antonio_miranda\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|solutionrelative:sol_antonio_miranda\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|d:\\proyectosnet\\sol_antonio_miranda\\sol_antonio_miranda\\views\\usuarios\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|solutionrelative:sol_antonio_miranda\\views\\usuarios\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|d:\\proyectosnet\\sol_antonio_miranda\\sol_antonio_miranda\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|solutionrelative:sol_antonio_miranda\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|d:\\proyectosnet\\sol_antonio_miranda\\sol_antonio_miranda\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|solutionrelative:sol_antonio_miranda\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|d:\\proyectosnet\\sol_antonio_miranda\\sol_antonio_miranda\\views\\usuarios\\sancionados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|solutionrelative:sol_antonio_miranda\\views\\usuarios\\sancionados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|d:\\proyectosnet\\sol_antonio_miranda\\sol_antonio_miranda\\views\\reportes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|solutionrelative:sol_antonio_miranda\\views\\reportes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|d:\\proyectosnet\\sol_antonio_miranda\\sol_antonio_miranda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|solutionrelative:sol_antonio_miranda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|d:\\proyectosnet\\sol_antonio_miranda\\sol_antonio_miranda\\services\\sancionmonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|solutionrelative:sol_antonio_miranda\\services\\sancionmonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|d:\\proyectosnet\\sol_antonio_miranda\\sol_antonio_miranda\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|solutionrelative:sol_antonio_miranda\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|d:\\proyectosnet\\sol_antonio_miranda\\sol_antonio_miranda\\data\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|solutionrelative:sol_antonio_miranda\\data\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|d:\\proyectosnet\\sol_antonio_miranda\\sol_antonio_miranda\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|solutionrelative:sol_antonio_miranda\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|d:\\proyectosnet\\sol_antonio_miranda\\sol_antonio_miranda\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|solutionrelative:sol_antonio_miranda\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|d:\\proyectosnet\\sol_antonio_miranda\\sol_antonio_miranda\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BD4252-972B-4394-BDC7-C90546429574}|SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA.csproj|solutionrelative:sol_antonio_miranda\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Views\\Usuarios\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "SOL_ANTONIO_MIRANDA\\Views\\Usuarios\\Perfil.cshtml",
+              "ToolTip": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Views\\Usuarios\\Perfil.cshtml",
+              "RelativeToolTip": "SOL_ANTONIO_MIRANDA\\Views\\Usuarios\\Perfil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T22:37:48.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SOL_ANTONIO_MIRANDA\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "SOL_ANTONIO_MIRANDA\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:32:29.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "SOL_ANTONIO_MIRANDA\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Pages\\Index.cshtml",
+              "RelativeToolTip": "SOL_ANTONIO_MIRANDA\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T22:32:28.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sancionados.cshtml",
+              "DocumentMoniker": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Views\\Usuarios\\Sancionados.cshtml",
+              "RelativeDocumentMoniker": "SOL_ANTONIO_MIRANDA\\Views\\Usuarios\\Sancionados.cshtml",
+              "ToolTip": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Views\\Usuarios\\Sancionados.cshtml",
+              "RelativeToolTip": "SOL_ANTONIO_MIRANDA\\Views\\Usuarios\\Sancionados.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T22:24:21.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "SOL_ANTONIO_MIRANDA\\Controllers\\UsuariosController.cs",
+              "ToolTip": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "SOL_ANTONIO_MIRANDA\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:23:18.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Views\\Prestamos\\Create.cshtml",
+              "RelativeDocumentMoniker": "SOL_ANTONIO_MIRANDA\\Views\\Prestamos\\Create.cshtml",
+              "ToolTip": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Views\\Prestamos\\Create.cshtml",
+              "RelativeToolTip": "SOL_ANTONIO_MIRANDA\\Views\\Prestamos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T22:04:37.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SOL_ANTONIO_MIRANDA\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SOL_ANTONIO_MIRANDA\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T21:58:10.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Views\\Reportes\\Index.cshtml",
+              "RelativeDocumentMoniker": "SOL_ANTONIO_MIRANDA\\Views\\Reportes\\Index.cshtml",
+              "ToolTip": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Views\\Reportes\\Index.cshtml",
+              "RelativeToolTip": "SOL_ANTONIO_MIRANDA\\Views\\Reportes\\Index.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAACwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T21:56:08.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrestamosController.cs",
+              "DocumentMoniker": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Controllers\\PrestamosController.cs",
+              "RelativeDocumentMoniker": "SOL_ANTONIO_MIRANDA\\Controllers\\PrestamosController.cs",
+              "ToolTip": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Controllers\\PrestamosController.cs",
+              "RelativeToolTip": "SOL_ANTONIO_MIRANDA\\Controllers\\PrestamosController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:52:34.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Program.cs",
+              "RelativeDocumentMoniker": "SOL_ANTONIO_MIRANDA\\Program.cs",
+              "ToolTip": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Program.cs",
+              "RelativeToolTip": "SOL_ANTONIO_MIRANDA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:57:01.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SancionMonitorService.cs",
+              "DocumentMoniker": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Services\\SancionMonitorService.cs",
+              "RelativeDocumentMoniker": "SOL_ANTONIO_MIRANDA\\Services\\SancionMonitorService.cs",
+              "ToolTip": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Services\\SancionMonitorService.cs",
+              "RelativeToolTip": "SOL_ANTONIO_MIRANDA\\Services\\SancionMonitorService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:12:23.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReportesController.cs",
+              "DocumentMoniker": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Controllers\\ReportesController.cs",
+              "RelativeDocumentMoniker": "SOL_ANTONIO_MIRANDA\\Controllers\\ReportesController.cs",
+              "ToolTip": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Controllers\\ReportesController.cs",
+              "RelativeToolTip": "SOL_ANTONIO_MIRANDA\\Controllers\\ReportesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:54:25.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BibliotecaContext.cs",
+              "DocumentMoniker": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Data\\BibliotecaContext.cs",
+              "RelativeDocumentMoniker": "SOL_ANTONIO_MIRANDA\\Data\\BibliotecaContext.cs",
+              "ToolTip": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Data\\BibliotecaContext.cs",
+              "RelativeToolTip": "SOL_ANTONIO_MIRANDA\\Data\\BibliotecaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:51:43.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Models\\Prestamo.cs",
+              "RelativeDocumentMoniker": "SOL_ANTONIO_MIRANDA\\Models\\Prestamo.cs",
+              "ToolTip": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Models\\Prestamo.cs",
+              "RelativeToolTip": "SOL_ANTONIO_MIRANDA\\Models\\Prestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:51:29.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "SOL_ANTONIO_MIRANDA\\Models\\Libro.cs",
+              "ToolTip": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Models\\Libro.cs",
+              "RelativeToolTip": "SOL_ANTONIO_MIRANDA\\Models\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:51:15.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "SOL_ANTONIO_MIRANDA\\Models\\Usuario.cs",
+              "ToolTip": "D:\\ProyectosNet\\SOL_ANTONIO_MIRANDA\\SOL_ANTONIO_MIRANDA\\Models\\Usuario.cs",
+              "RelativeToolTip": "SOL_ANTONIO_MIRANDA\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:50:26.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

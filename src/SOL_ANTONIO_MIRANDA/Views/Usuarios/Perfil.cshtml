@@ -1,0 +1,72 @@
+﻿@using SOL_ANTONIO_MIRANDA.Models
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model Usuario
+
+<h2>Mi Perfil</h2>
+
+<div class="card mb-4">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Nombres @Model.Apellidos</h5>
+        <p class="card-text">
+            <strong>DNI:</strong> @Model.Dni <br />
+            <strong>Email:</strong> @Model.Email <br />
+            <strong>Teléfono:</strong> @Model.Telefono <br />
+            <strong>Tipo:</strong> @Model.TipoUsuario <br />
+            <strong>Estado:</strong>
+            @if (Model.Estado)
+            {
+                <span class="badge bg-success">Habilitado</span>
+            }
+            else
+            {
+                <span class="badge bg-danger">Sancionado</span>
+            }
+        </p>
+    </div>
+</div>
+
+<h4>Resumen</h4>
+<p>Préstamos realizados hoy: <strong>@ViewBag.PrestamosHoy</strong></p>
+<p>Libros sin devolver: <strong>@ViewBag.LibrosSinDevolver</strong></p>
+
+@if (ViewBag.LibrosSinDevolver > 0)
+{
+    <div class="alert alert-warning">
+        ⚠️ Tienes @ViewBag.LibrosSinDevolver libro(s) sin devolver. No podrás realizar nuevos préstamos hasta devolverlos.
+    </div>
+}
+
+<h4>Historial de Préstamos</h4>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Libro</th>
+            <th>Fecha Préstamo</th>
+            <th>Fecha Devolución</th>
+            <th>Devuelto</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model.Prestamos)
+        {
+            <tr>
+                <td>@p.Libro.Nombre</td>
+                <td>@p.FechaPrestamo.ToString("g")</td>
+                <td>@p.FechaDevolucion.ToString("g")</td>
+                <td>
+                    @if (p.Devuelto)
+                    {
+                        <span class="badge bg-success">Sí</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger">No</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

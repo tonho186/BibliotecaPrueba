@@ -1,0 +1,79 @@
+﻿@using SOL_ANTONIO_MIRANDA.Models
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<Usuario>
+
+@{
+    ViewData["Title"] = "Usuarios Sancionados";
+}
+@section Scripts {
+    <script>
+        function abrirConfirmacion(userId) {
+            document.getElementById("userIdInput").value = userId;
+            document.getElementById("confirmForm").action = "/Usuarios/Rehabilitar";
+            var modal = new bootstrap.Modal(document.getElementById("confirmModal"));
+            modal.show();
+        }
+    </script>
+}
+<h2>Usuarios Sancionados</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>DNI</th>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Email</th>
+            <th>Teléfono</th>
+            <th>Tipo</th>
+            <th>Acción</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var u in Model)
+        {
+            <tr>
+                <td>@u.Dni</td>
+                <td>@u.Nombres</td>
+                <td>@u.Apellidos</td>
+                <td>@u.Email</td>
+                <td>@u.Telefono</td>
+                <td>@u.TipoUsuario</td>
+                <td>
+                    <form asp-controller="Usuarios" asp-action="Rehabilitar" method="post" onsubmit="return confirm('¿Estás seguro que deseas rehabilitar a este usuario?');">
+                        <input type="hidden" name="id" value="@u.Id" />
+                        <button type="button" class="btn btn-success btn-sm"
+                                onclick="abrirConfirmacion('@u.Id')">
+                            Rehabilitar
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="modal fade" id="confirmModal" tabindex="-1" aria-labelledby="confirmModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Confirmar rehabilitación</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+            <div class="modal-body">
+                ¿Estás seguro que deseas rehabilitar a este usuario?
+            </div>
+            <div class="modal-footer">
+                <form id="confirmForm" method="post">
+                    <input type="hidden" name="id" id="userIdInput" />
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                    <button type="submit" class="btn btn-success">Sí, rehabilitar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
